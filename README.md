@@ -1,2 +1,2 @@
-# Movie_lane
-This is a project using React.js that shows movies with their series and seasons according to user's input. 
+# Speech-to-text-converter
+This is an interface where users can speak in any language and can convert it into textual format and can copy them for further use.
