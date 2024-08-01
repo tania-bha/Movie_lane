@@ -1,3 +1,2 @@
 # Movie_lane
-This is a project that shows movies according to user's input. 
-This is done by React.js.
+This is a project using React.js that shows movies with their series and seasons according to user's input. 
